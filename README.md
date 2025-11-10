@@ -1,7 +1,7 @@
 # Sales_Overview_Dashboard
 
 ## Overview
-The **Sales Overview Dashboard** is a comprehensive Power BI project that tracks sales performance across various dimensions. This dashboard helps stakeholders gain actionable insights into sales trends, profits, and customer behavior.
+The **Store Performance Dashboard** is a comprehensive Power BI project that tracks sales performance across various dimensions. This dashboard helps stakeholders gain actionable insights into sales trends, profits, and customer behavior.
 
 ## Features
 - **Visual Insights:** Dynamic visualizations to understand sales patterns and trends.
