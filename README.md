@@ -45,11 +45,7 @@ To track and analyze:
 🌍 West region performs best in both profit & revenue  
 🎯 Consumers contribute the largest segment of sales  
 
-*Insights may vary depending on dataset version.*
 
----
-
-## 📂 Project Structure
 
 
 
