@@ -1,4 +1,4 @@
-# Sales_Overview_Dashboard
+# Store_Performance_Dashboard
 
 ## Overview
 The **Store Performance Dashboard** is a comprehensive Power BI project that tracks sales performance across various dimensions. This dashboard helps stakeholders gain actionable insights into sales trends, profits, and customer behavior.
